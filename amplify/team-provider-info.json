@@ -1,0 +1,15 @@
+{
+    "entre": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-entrepreneur-entre-204048-authRole",
+            "UnauthRoleArn": "arn:aws:iam::250286007225:role/amplify-entrepreneur-entre-204048-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::250286007225:role/amplify-entrepreneur-entre-204048-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-entrepreneur-entre-204048-deployment",
+            "UnauthRoleName": "amplify-entrepreneur-entre-204048-unauthRole",
+            "StackName": "amplify-entrepreneur-entre-204048",
+            "StackId": "arn:aws:cloudformation:eu-west-1:250286007225:stack/amplify-entrepreneur-entre-204048/313e32c0-7b63-11ea-b393-025fc999d9f6",
+            "AmplifyAppId": "d5lpoy6rhw83q"
+        }
+    }
+}

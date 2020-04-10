@@ -1,0 +1,29 @@
+.bg-dark{
+    background-color: #b67a03!important;
+}
+
+.w{
+    color: white;
+}
+
+.footer-links{
+    color:  #027cff;
+    text-decoration: none;
+    display: block;
+}
+
+a.footer-links:hover{
+    color: black;   
+}
+
+ul{
+    padding: 0;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+}
+
+.b{
+    color: black;
+}
