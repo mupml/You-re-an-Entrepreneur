@@ -38,20 +38,18 @@
 
 
 .u{
-  color: #000565 !important;
+  color: blue!important;
 }
 
 .bb{
-  color: #000565 !important;
+  color: blue !important;
 }
 
 
 a.u:hover{
-  color: #007bff !important;
-  text-decoration: underline;
+  color: black!important;
 }
 
 a.bb:hover{
-  color: #007bff !important;
-  text-decoration: underline;
+  color: black !important;
 }

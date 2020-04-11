@@ -3,13 +3,17 @@
 }
 
 .w{
+    display: block;
+    margin: auto;
     color: white;
+    text-align: center; 
 }
 
 .footer-links{
-    color:  #027cff;
+    color:  white;
     text-decoration: none;
     display: block;
+
 }
 
 a.footer-links:hover{
@@ -18,7 +22,7 @@ a.footer-links:hover{
 
 ul{
     padding: 0;
-    width: 100px;
+    width: 150px;
     margin-left: auto;
     margin-right: auto;
     list-style-type: none;

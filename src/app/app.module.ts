@@ -11,6 +11,12 @@ import { ProgrammingComponent } from './components/programming/programming.compo
 import { ResourcesComponent } from './components/resources/resources.component';
 import { AboutComponent } from './components/about/about.component';
 import { ContactComponent } from './components/contact/contact.component';
+import { AffiliateMarketingComponent } from './components/affiliate-marketing/affiliate-marketing.component';
+import { ServiceArbitrageComponent } from './components/service-arbitrage/service-arbitrage.component';
+import { OnlineCoursesComponent } from './components/online-courses/online-courses.component';
+import { BooksComponent } from './components/books/books.component';
+import { BillboardsComponent } from './components/billboards/billboards.component';
+import { TshirtComponent } from './components/tshirt/tshirt.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +28,13 @@ import { ContactComponent } from './components/contact/contact.component';
     ProgrammingComponent,
     ResourcesComponent,
     AboutComponent,
-    ContactComponent
+    ContactComponent,
+    AffiliateMarketingComponent,
+    ServiceArbitrageComponent,
+    OnlineCoursesComponent,
+    BooksComponent,
+    BillboardsComponent,
+    TshirtComponent
   ],
   imports: [
     BrowserModule,
